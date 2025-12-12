@@ -1,0 +1,6 @@
+,0
+avg_model_cost,5444.969635696411
+avg_baseline_cost,4300.0
+savings_per_patient,-1144.9696356964114
+savings_per_1000,-1144969.6356964114
+threshold,0.5
