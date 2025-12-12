@@ -1,0 +1,10 @@
+1. systolic: Higher systolic blood pressure reduces predicted chances of success.
+2. age: Older age is associated with lower probability of a good outcome.
+3. exercise_level: Higher exercise level increases likelihood of a positive outcome.
+4. cholesterol: Elevated cholesterol is linked to worse predicted outcomes.
+5. risk_score: Important driver (importance=0.0055).
+6. age_group: Older age is associated with lower probability of a good outcome.
+7. height: Important driver (importance=0.0000).
+8. glucose: Important driver (importance=0.0000).
+9. diastolic: Important driver (importance=0.0000).
+10. weight: Important driver (importance=0.0000).
