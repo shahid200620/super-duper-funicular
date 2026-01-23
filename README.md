@@ -1,8 +1,7 @@
 # 🏥 Predicting Healthcare Outcomes with Cost-Effectiveness Analysis  
 
 **End-to-End Data Science Project | Machine Learning | Healthcare Analytics**
-
-🔗 **Repository:** https://github.com/shahid200620/super-duper-funicular  
+ 
 🎥 **Demo Video:** Available in `demo_video_link.txt`
 
 ---
@@ -156,3 +155,4 @@ An intuitive **Streamlit dashboard** was developed for real-world usage.
 ▶ Run locally:
 ```bash
 streamlit run dashboard/app.py
+
